@@ -1,0 +1,26 @@
+июл. 14, 2024 5:26:49 PM view.CalculationView start
+INFO: Получение выражения от пользователя
+июл. 14, 2024 5:26:49 PM view.CalculationView divideComplexNum
+INFO: Деление чисел: ( 1.0, 2.0i ) и ( 3.0, 4.0i )
+июл. 14, 2024 5:31:14 PM view.CalculationView start
+INFO: Получение выражения от пользователя
+июл. 14, 2024 5:31:14 PM view.CalculationView sumComplexNum
+INFO: Суммирование чисел: ( 5.0, 45.0i ) и ( 50.0, 10.0i )
+июл. 14, 2024 5:31:23 PM view.CalculationView start
+INFO: Получение выражения от пользователя
+июл. 14, 2024 5:33:53 PM view.CalculationView start
+INFO: Неподдерживаемая операция: -
+июл. 14, 2024 5:33:57 PM view.CalculationView start
+INFO: Неподдерживаемая операция: �
+июл. 14, 2024 5:33:57 PM view.CalculationView start
+INFO: Неподдерживаемая операция: ���
+июл. 14, 2024 5:33:58 PM view.CalculationView start
+INFO: Неподдерживаемая операция: 㪭
+июл. 14, 2024 5:33:59 PM view.CalculationView start
+INFO: Неподдерживаемая операция: 㪭
+июл. 14, 2024 5:34:00 PM view.CalculationView sumComplexNum
+INFO: Суммирование чисел: ( 15.0, 5.0i ) и ( 12.0, 15.0i )
+июл. 14, 2024 5:39:18 PM view.CalculationView start
+INFO: Получение выражения от пользователя
+июл. 14, 2024 5:39:18 PM view.CalculationView multiplyComplexNum
+INFO: Умножение чисел: ( 2.0, 3.0i ) и ( 5.0, 4.0i )
